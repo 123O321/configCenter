@@ -10,3 +10,4 @@ eureka:
     service-url:
       defaultZone: http://admin:admin@localhost:8765/eureka/
 
+env: dev
